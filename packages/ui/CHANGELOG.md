@@ -1,5 +1,12 @@
 # next-docs-ui
 
+## 11.1.2
+
+### Patch Changes
+
+- 58adab1: Improve theme & styles
+  - fumadocs-core@11.1.2
+
 ## 11.1.1
 
 ### Patch Changes
